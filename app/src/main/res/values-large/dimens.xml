@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="perfil_person">400dp</dimen>
+    <dimen name="Size_puesto">40sp</dimen>
+    <dimen name="main_codebar_height">100dp</dimen>
+    <dimen name="main_size_name">40sp</dimen>
+</resources>
