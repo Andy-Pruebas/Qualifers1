@@ -44,7 +44,7 @@
             android:textAlignment="center"
             android:layout_margin="16dp"
             android:textSize="@dimen/main_size_name"
-            android:text="Katherine Prado"/>
+            android:text="Rosa Melano"/>
 
         <TextView
             android:layout_width="match_parent"
